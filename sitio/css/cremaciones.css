@@ -1,0 +1,42 @@
+h2 {
+    text-align: left;
+}
+p,
+#lista-p {
+    color: silver;
+    font-family: sans-serif;
+    font-size: 11pt;
+}
+
+.intro {
+    height: 200px;
+    padding-top: 100px
+}
+
+.row {
+    margin-left: 20px;
+    font-size: 50px
+}
+.nav-tabs {
+    font-family: sans-serif;
+}
+.container {
+    text-align: left;
+    
+}
+.col-lg-12 {
+    width: 100%;
+    padding: 50px;
+    align-items: center;
+}
+.tab-content {
+    padding-top: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
+    font-family: sans-serif;
+}
+.nav-justified {
+    color: darkred
+    
+}
+
